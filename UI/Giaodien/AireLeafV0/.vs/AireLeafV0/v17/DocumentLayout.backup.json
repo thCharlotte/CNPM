@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\winformsapp1\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|d:\\cnpm\\ui\\giaodien\\aireleafv0\\winformsapp1\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\winformsapp1\\dangnhapqrcodecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dangnhapqrcodecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|d:\\cnpm\\ui\\giaodien\\aireleafv0\\winformsapp1\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|d:\\cnpm\\ui\\giaodien\\aireleafv0\\winformsapp1\\dangnhapqrcodecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dangnhapqrcodecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|d:\\cnpm\\ui\\giaodien\\aireleafv0\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|d:\\cnpm\\ui\\giaodien\\aireleafv0\\winformsapp1\\dangnhaptaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dangnhaptaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\winformsapp1\\dangnhaptaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dangnhaptaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|d:\\cnpm\\ui\\giaodien\\aireleafv0\\winformsapp1\\dangnhaptaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dangnhaptaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|d:\\cnpm\\ui\\giaodien\\aireleafv0\\winformsapp1\\winformsapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\dangNhap.Designer.cs",
+              "ToolTip": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhap.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\dangNhap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:40:15.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dangNhap.cs",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhap.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\dangNhap.cs",
+              "ToolTip": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhap.cs",
+              "RelativeToolTip": "WinFormsApp1\\dangNhap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:40:01.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhap.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\dangNhap.cs",
+              "ToolTip": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhap.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\dangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:39:57.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dangNhapQRCodecs.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhapQRCodecs.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\dangNhapQRCodecs.cs",
+              "ToolTip": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhapQRCodecs.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\dangNhapQRCodecs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:38:09.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dangNhapQRCodecs.cs",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhapQRCodecs.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\dangNhapQRCodecs.cs",
+              "ToolTip": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhapQRCodecs.cs",
+              "RelativeToolTip": "WinFormsApp1\\dangNhapQRCodecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:37:58.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WinFormsApp1.csproj",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T03:34:15.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dangNhapTaiKhoan.cs",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhapTaiKhoan.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\dangNhapTaiKhoan.cs",
+              "ToolTip": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhapTaiKhoan.cs",
+              "RelativeToolTip": "WinFormsApp1\\dangNhapTaiKhoan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:31:05.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dangNhapTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhapTaiKhoan.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\dangNhapTaiKhoan.cs",
+              "ToolTip": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhapTaiKhoan.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\dangNhapTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:31:00.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dangNhapTaiKhoan.Designer.cs",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhapTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\dangNhapTaiKhoan.Designer.cs",
+              "ToolTip": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\dangNhapTaiKhoan.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\dangNhapTaiKhoan.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:30:55.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WinFormsApp1",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "D:\\CNPM\\UI\\Giaodien\\AireLeafV0\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T03:24:34.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

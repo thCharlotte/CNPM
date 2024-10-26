@@ -1,0 +1,6 @@
+D:\CNPM\UI\Giaodien\AireLeafV0\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dangNhap.resources
+D:\CNPM\UI\Giaodien\AireLeafV0\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dangNhapQRCodecs.resources
+D:\CNPM\UI\Giaodien\AireLeafV0\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dangNhapTaiKhoan.resources
+D:\CNPM\UI\Giaodien\AireLeafV0\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.doiMatKhau.resources
+D:\CNPM\UI\Giaodien\AireLeafV0\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.quenMatKhau.resources
+D:\CNPM\UI\Giaodien\AireLeafV0\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache

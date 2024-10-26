@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="dangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dangNhapQRCodecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dangNhapTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="doiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="quenMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

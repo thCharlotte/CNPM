@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNPM\\UI\\Main\\Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73282FAD-DD63-43A4-B024-15428AB69BC3}|Main\\Main.csproj|d:\\cnpm\\ui\\main\\main\\main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73282FAD-DD63-43A4-B024-15428AB69BC3}|Main\\Main.csproj|solutionrelative:main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73282FAD-DD63-43A4-B024-15428AB69BC3}|Main\\Main.csproj|d:\\cnpm\\ui\\main\\main\\main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73282FAD-DD63-43A4-B024-15428AB69BC3}|Main\\Main.csproj|solutionrelative:main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Main\\Main\\Main\\Form1.cs",
+              "RelativeDocumentMoniker": "Main\\Form1.cs",
+              "ToolTip": "D:\\CNPM\\UI\\Main\\Main\\Main\\Form1.cs",
+              "RelativeToolTip": "Main\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:13:34.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\UI\\Main\\Main\\Main\\Form1.cs",
+              "RelativeDocumentMoniker": "Main\\Form1.cs",
+              "ToolTip": "D:\\CNPM\\UI\\Main\\Main\\Main\\Form1.cs [Design]",
+              "RelativeToolTip": "Main\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:31:02.274Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
